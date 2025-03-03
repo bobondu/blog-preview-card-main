@@ -1,0 +1,31 @@
+*{margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Figtree", serif;}
+body{
+    background-color:  Yellow; hsl(47, 88%, 63%);
+}
+.cita{background-color: White; hsl(0, 0%, 100%);
+    margin: 20px auto;
+    width: min-content;
+    
+ border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 8px 8px opx opx black;
+padding: 1.2rem; 
+}
+.meme img{border-radius: 10px;}
+.aito{background-color: hsl(47, 88%, 63%);
+     margin-top: 1.2rem;
+     margin-bottom: 5px;
+     padding: 4px 8px;
+     border-radius: 4px;
+     width: 110px;
+}
+.pubdate{margin-bottom: 5px;font-size: 14px;
+font-weight: 500;
+margin-top: 5px;}
+.pubdate h1{font-size: 14px;
+font-weight: 800;margin-bottom: 5px;}
+.gregimage{display: flex; align-items: center;}
+.gregimage h4{margin-left: 10px;}
